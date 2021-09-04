@@ -1,0 +1,7 @@
+- Aula desafio github
+
+--> Criar repositório
+--> Clonar o repositório na máquina local
+--> Fazer alguma alteração
+--> Commit da alteração
+--> Push
